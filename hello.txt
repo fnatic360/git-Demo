@@ -6,4 +6,4 @@ hello spring!
 hello redis!
 hello sql!
 hello mq! master-test
-hello boot!
+hello boot!  hot-fix-test
