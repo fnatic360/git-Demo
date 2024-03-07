@@ -5,5 +5,5 @@ hello jsp!
 hello spring!
 hello redis!
 hello sql!
-hello mq!
+hello mq! master-test
 hello boot!
